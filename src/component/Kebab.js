@@ -30,25 +30,25 @@ export const Kebab = () => {
                 d="M4 12H20"
                 stroke="#4B5563"
                 className="dark:stroke-slate-50"
-                strokeWinecap="2"
+                strokewinecap="2"
                 strokeLinecap="round"
-                stroke-linejoin="round"
+                strokeLinejoin="round"
               />
               <path
                 d="M4 6H20"
                 stroke="#4B5563"
                 className="dark:stroke-slate-50"
-                strokeWinecap="2"
+                strokewinecap="2"
                 strokeLinecap="round"
-                stroke-linejoin="round"
+                strokeLinejoin="round"
               />
               <path
                 d="M4 18H20"
                 stroke="#4B5563"
                 className="dark:stroke-slate-50"
-                strokeWinecap="2"
+                strokewinecap="2"
                 strokeLinecap="round"
-                stroke-linejoin="round"
+                strokeLinejoin="round"
               />
             </svg>
           </label>
