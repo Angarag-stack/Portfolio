@@ -1,0 +1,103 @@
+.tomcv {
+}
+.head {
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+}
+.headcontent {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.headshadow {
+  display: flex;
+  align-content: center;
+}
+.tomContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50%;
+}
+.tom {
+  width: 320px;
+  height: 360px;
+}
+.tom2 {
+  width: 440px;
+  height: 520px;
+}
+.tomname {
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  margin-left: 50px;
+}
+.tomcontent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 80px;
+  padding-top: 96px;
+  padding-bottom: 80px;
+  padding-right: 96px;
+}
+.part2 {
+  padding: 5px;
+  background-color: darkgray;
+  border-radius: 10px;
+  color: black;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.part2content {
+  display: flex;
+  justify-content: space-between;
+}
+.cv2 {
+  padding: 32px;
+  background-color: #f9fafb;
+  text-align: center;
+}
+.code {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.flex {
+  display: flex;
+}
+.headtext {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  color: #4b5563;
+  align-content: center;
+}
+.down {
+  display: flex;
+  align-items: center;
+  color: white;
+  padding-left: 16px;
+  padding-top: 6px;
+  padding-right: 16px;
+  padding-bottom: 6px;
+  background-color: #111827;
+  border-radius: 15px;
+  font-size: 16px;
+}
+.responsive-image {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
